@@ -1,0 +1,21 @@
+{
+  "name": "vue-website-cli",
+  "version": "1.0.0",
+  "description": "Cli tool that bootstraps static sites with SPA powers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "vue-website": "./index.js"
+  },
+  "dependencies": {
+    "vue-cli": "^2.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-forefront/vue-website-cli.git"
+  }
+}
