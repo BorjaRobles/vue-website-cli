@@ -4,7 +4,7 @@ This tool allows you to put in place a static website powered by VueJS.
 
 If you are a VueJS developer, you can develop a static website in no time with the tools you love.
 
-If you are integrator or website developer using static site generators like Jekyll, and or handle user actions with tools like jQuery and manipulate much DOM, you will be able to code your website as simple components (html, css). Just add some js implementing vuejs component module and you will add reactivity to your page.
+If you are integrator or website developer using static site generators like Jekyll, and or handle user actions with tools like jQuery and manipulate much DOM, you will be able to code your website as simple components (html, css). Just add some js implementing vuejs component module and you will add reactivity to your pages.
 
 ## how to use
 
