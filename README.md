@@ -22,7 +22,7 @@ Just generate a new website and you're done!
 vue-website generate my-website
 ```
 
-An `npm run dev` will live reload your site, a `npm run build` will generate your static pages, embedding wuejs anyway for reactivity and user interaction.
+An `npm run dev` will live reload your site, a `npm run build` will generate your static pages, embedding VueJS anyway for reactivity and user interaction.
 
 ### a little bit complicated
 
