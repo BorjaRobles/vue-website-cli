@@ -26,4 +26,4 @@ An `npm run dev` will live reload your site, a `npm run build` will generate you
 
 ### a little bit complicated
 
-I you don't want this tool magic, you can use the [vue-website-template](https://github.com/code-forefront/vue-website-template) as a VueJS template (as an overload of the [vue webpack template](https://github.com/vuejs-templates/webpack)) on wich is added the [vue-website-plugins](https://github.com/code-forefront/vue-website-plugins).
+If you don't want this tool magic, you can use the [vue-website-template](https://github.com/code-forefront/vue-website-template) as a VueJS template (as an overload of the [vue webpack template](https://github.com/vuejs-templates/webpack)) on wich is added the [vue-website-plugins](https://github.com/code-forefront/vue-website-plugins).
