@@ -12,7 +12,7 @@
     "vue-website": "./index.js"
   },
   "dependencies": {
-    "vue-cli": "^2.9.2"
+    "vue-cli": "^2.9.3"
   },
   "repository": {
     "type": "git",
